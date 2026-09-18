@@ -1,4 +1,5 @@
-# Pet Image Classifier for a City Dog Show
+![](/assets/aws-udacity.jpg)
+# CNN-Based Dog Breed Image Classification
 
 A Python CLI that compares three pretrained CNN architectures (AlexNet, VGG-16, ResNet-18) to classify pet images as **dog** or **not-a-dog** and to identify the dog **breed**, as part of the Udacity *AI Programming with Python* "Classify Pet Images" capstone project.
 
