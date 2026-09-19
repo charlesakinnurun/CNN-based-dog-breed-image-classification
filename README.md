@@ -308,7 +308,7 @@ python check_images.py --dir pet_images/ --arch vgg --dogfile dognames.txt
 
 ## License
 
-License information is not currently specified.
+- **Code** in this repository is MIT licensed - see `LICENSE`.
 
 ## Author
 
